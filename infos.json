@@ -1,0 +1,577 @@
+{
+  "groupe1": {
+    "titre": "O'Korrigans #1 MD Huelgoat(29) 04/04",
+    "textes": [
+    ""      
+    ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://www.quimper-orientation.fr/live/753.html"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },      
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "22/10/2026 22:37"
+  },
+
+  "groupe2": {
+    "titre": "O'Korrigans #4 MD Berrien(29) 06/04",
+    "textes": [
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "Résultats",
+        "url": "https://www.quimper-orientation.fr/files/resultats-par-circuit-69d3c76054d783.31968934.html"
+      },
+      {
+        "texte": "Résultats temps intermédiaires",
+        "url": "https://www.quimper-orientation.fr/files/resultats-temps-intermediaires-69d3c76055ff82.08787738.html"
+      }
+    ],
+    "maj": "22/10/2026 22:37"
+  },
+  "groupe3": {
+    "titre": "WE O'Colettes régionale MD Louroux de Bouble(03) 11/04",
+    "textes": [
+      "",
+      "",
+      ""     
+        ],
+    "liens": [
+      {
+        "texte": "Résultats Circuits",
+        "url": "https://drive.google.com/file/d/17fpDtgZIceHRzrRQSO3JZShueftpoyBE/view?usp=sharing"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },      
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "22/10/2026 22:37"
+  },
+  "groupe4": {
+    "titre": "WE O'Colettes régionale LD Coutansouze(03) 12/04",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Circuits",
+        "url": "https://drive.google.com/file/d/1UKTdlyI4dg_5J2SgNt6N-5eSUTi6prNI/view?usp=sharing"
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "22/10/2026 22:37"
+  },
+  "groupe5": {
+    "titre": "Sprint #1 Paris 17ème(75) 12/04",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Circuits",
+        "url": "https://helga-o.com/webres/index.php?lauf=6628&lang=fr&country=FRA"
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "22/10/2026 22:37"
+  },
+  "groupe6": {
+    "titre": "Sprint #2 Paris 17ème(75) 12/04",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Circuits",
+        "url": "https://helga-o.com/webres/index.php?lauf=6631&lang=fr&country=FRA"
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "22/10/2026 22:37"
+  },
+  "groupe7": {
+    "titre": "Vulcan'O régionale MD1 Chatel-Guyon(63) 18/04",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Circuits",
+        "url": "https://storage.e.jimdo.com/file/4c86ab70-0673-428d-ad2c-8bddb139e014/Vulcan'O%20MD1%20-%20R%C3%A9sultats%20provisoires.pdf"
+      },
+      {
+        "texte":"Résultats temps intermédiaires",
+        "url":"https://storage.e.jimdo.com/file/1b6a18ba-3002-4516-af4d-78cdf4c5fc11/Vulcan'O%20MD1%20-%20R%C3%A9sultats%20temps%20interm%C3%A9diaires.pdf"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "22/10/2026 22:37"
+  },
+  "groupe8": {
+    "titre": "Vulcan'O régionale MD2 Moulet-Mercenat(63) 19/04",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Circuits",
+        "url": "https://storage.e.jimdo.com/file/4b56aade-1eeb-4ef6-94ed-4bf01be8e5dd/Vulcan'O%20MD2%20-%20R%C3%A9sultats%20provisoires.pdf"
+      },
+      {
+        "texte":"Résultats temps intermédiaires",
+        "url":"https://storage.e.jimdo.com/file/ab399b18-6441-46a3-ae55-d25ae86db33c/Vulcan'O%20MD2%20-%20R%C3%A9sultats%20temps%20interm%C3%A9diaires.pdf"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "22/10/2026 22:37"
+  },
+  "groupe9": {
+    "titre": "Régionale MD Cestres(21) 26/04",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "Résultats Circuits",
+        "url": "https://drive.google.com/file/d/1rLPuZmN8wOODyrydvlHy-BwBVT2bLeYo/view?usp=drivesdk"
+      },
+      {
+        "texte":"Résultats temps intermédiaires",
+        "url":"https://drive.google.com/file/d/1rLPuZmN8wOODyrydvlHy-BwBVT2bLeYo/view?usp=drivesdk"
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "22/10/2026 22:37"
+  },
+
+  "groupe10": {
+    "titre": "",
+    "textes": [
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "22/10/2026 22:37"
+  },
+
+    "groupe11": {
+    "titre": "",
+    "textes": [
+      "",
+      ""
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "22/10/2026 22:37"
+  },
+
+  "groupe12": {
+    "titre": "",
+    "textes": [
+      "" 
+    ],
+    "liens": [
+      {        
+        "texte": "",        
+        "url": ""
+      },
+      {         
+        "texte":"",
+        "url":""
+      },      
+      {
+        "texte": "",        
+        "url": ""
+      },
+      {
+        "texte": "",
+        "url": ""
+      }
+    ],
+    "maj": "22/10/2026 22:37"
+  },
+  "groupe13": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "22/10/2026 22:37"
+  },
+  "groupe14": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": ""
+  },
+  "groupe15": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe16": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe17": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe18": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe19": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  },
+  "groupe20": {
+    "titre": "",
+    "textes": [
+      "",
+      "",
+      ""  
+    ],
+    "liens": [
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",
+        "url": ""
+      },
+      {
+        "texte":"",
+        "url":""
+      },
+      {
+        "texte": "",        
+        "url": ""
+      }
+    ],
+    "maj": "18/10/2026 15:36"
+  }  
+}
